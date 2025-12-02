@@ -31,8 +31,6 @@ Measure the model’s performance on the test data with relevant metrics.
 ```
 /*
 Program to  implement a Decision Tree model for tumor classification.
-Developed by: DAKSHA C
-RegisterNumber: 212224230048
 */
 # Import the necessary libraries
 import pandas as pd
